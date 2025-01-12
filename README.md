@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Senior Frontend Developer<br>💻 Mostly work with React, React Native, Typescript<br>🎓 Student of the Taras Shevchenko National University of Kyiv<br>🇺🇦 From Kyiv, Ukraine<br>💬 Easily get along with others<br>⚡ I like boxing, gym and football
+🔭 Frontend Developer<br>💻 Mostly work with React, React Native, Typescript<br>🎓 Student of the Taras Shevchenko National University of Kyiv<br>🇺🇦 From Kyiv, Ukraine<br>💬 Easily get along with others<br>⚡ I like boxing, gym and football
 
 
 ## 🌐 Socials:
